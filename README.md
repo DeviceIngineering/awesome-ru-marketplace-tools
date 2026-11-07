@@ -94,6 +94,12 @@
 - [pashabaranov/Wildberries_Dashboard](https://github.com/pashabaranov/Wildberries_Dashboard) — дашборд по данным WB.
 - [victorprogrammist/scrape_marketplaces](https://github.com/victorprogrammist/scrape_marketplaces) — MIT. Клиент к стороннему парсеру Ozon.
 
+- [kosoyyagent/card-audit](https://github.com/kosoyyagent/card-audit) — Python, MIT. Аудит карточек WB/Ozon: отзывы, фото, рейтинг → Excel-отчёт с флагами.
+- [kosoyyagent/ozon-seller-sync](https://github.com/kosoyyagent/ozon-seller-sync) — PHP, MIT. Синхронизация заказов и ПВЗ из Ozon Seller API в MySQL.
+- [kosoyyagent/wb-ozon-ip-evidence](https://github.com/kosoyyagent/wb-ozon-ip-evidence) — Python, MIT. Пакет доказательств копирования карточек: метаданные, фото, скриншоты → Excel.
+- [kosoyyagent/wb-photo-insert](https://github.com/kosoyyagent/wb-photo-insert) — Python, MIT. Массовая подстановка фото в карточки WB по списку артикулов.
+- [kosoyyagent/wb-reviews-digest](https://github.com/kosoyyagent/wb-reviews-digest) — Python, MIT. Дайджест новых отзывов WB/Ozon в Excel для селлеров.
+
 ---
 
 ## Коммерческие сервисы
